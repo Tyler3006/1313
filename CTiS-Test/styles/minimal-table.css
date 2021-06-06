@@ -1,12 +1,12 @@
-  body {
+body {
 
 
 font-family: sans-serif;
 padding-left: 11em;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: white;
-    background-color: royalblue }
+		  color: black;
+    background-color: dodgerblue }
 	  ul.navbar {
      list-style-type: none;
     padding: 0;
